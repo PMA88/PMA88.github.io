@@ -5,3 +5,33 @@
   background-size: cover;
   background-position: center;
 }
+
+.home-title {
+  height: 50vh;
+}
+
+.home-socials {
+  height: 50vh;
+}
+
+.bi:hover {
+  color: #0d6efd !important;
+}
+
+.about {
+  height: 100vh;
+}
+
+.projects {
+  height: 100vh;
+  background-color: black;
+}
+
+.experience {
+  height: 100vh;
+}
+
+.contact {
+  height: 100vh;
+  background-color: black;
+}
